@@ -4,24 +4,9 @@
   box-sizing: border-box;
 }
 
-.tablet {
-  position:absolute;
-
-}
-
-.telefono{
-
-  position:absolute;
-  top:0;
-  left:302px;
-
-}
-
-.cuffia{
-  position:absolute;
-  top:0;
-  left:604px;
-
+.prodotti {
+  position: relative;
+  display: inline-block;
 }
 
 .sconto30 {
@@ -29,15 +14,19 @@
   background-size: 50px 50px;
   position:absolute;
   top:0;
-  left:84%
-
-
+  left:88%
 }
 
 .sconto5 {
   background-color: red;
   position:absolute;
   top:0;
-  left:87%
+  left:90%
+
+}
+span{
+  position: absolute;
+  bottom: 5px;
+  right: 50%;
 
 }
