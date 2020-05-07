@@ -2,11 +2,14 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+
 }
+
 
 .prodotti {
   position: relative;
   display: inline-block;
+
 }
 
 .sconto30 {
@@ -24,9 +27,17 @@
   left:90%
 
 }
-span{
+span {
   position: absolute;
   bottom: 5px;
   right: 50%;
 
+
+}
+
+.prodotti span {
+  display: none;
+}
+.prodotti:hover span {
+  display:block;
 }
