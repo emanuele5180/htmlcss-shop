@@ -27,10 +27,17 @@
 .sconto30 {
   background-color: #00FF00;
   background-size: 50px 50px;
-  
+  position:absolute;
+  top:0;
+  left:84%
+
 
 }
 
 .sconto5 {
   background-color: red;
+  position:absolute;
+  top:0;
+  left:87%
+
 }
