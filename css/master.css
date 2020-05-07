@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.tablet {
+  position:absolute;
+
+}
+
+.telefono{
+
+  position:absolute;
+  top:0;
+  left:302px;
+
+}
+
+.cuffia{
+  position:absolute;
+  top:0;
+  left:604px;
+
+}
+
+.sconto30 {
+  background-color: #00FF00;
+  background-size: 50px 50px;
+  
+
+}
+
+.sconto5 {
+  background-color: red;
+}
